@@ -1,5 +1,5 @@
 {
-  "name": "falcor-express-with-errors",
+  "name": "falcor-express",
   "version": "0.1.4",
   "description": "A falcor server for express.",
   "main": "src/index.js",
